@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sarath1812
+- 👋 Hi, I’m Sarath.
 - 👀 X Backend developer
 - Working as a Big data engineer.
  
